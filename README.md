@@ -65,7 +65,7 @@ Web 3.0
 
 ```
 - Github.sol smart contract written to store issues and it's data.
-- 
+- CrossChain.sol smart contracts helps in the cross chain transaction(ROUTER)
 - Deployed using HardHat on Alchemy's 'Goerli Test Network'.
 - Using Metamask to Process transactions.
 ```
