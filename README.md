@@ -57,6 +57,7 @@ A few of the things you can do with GithubCrypt:
 
 - [Samarth Dhawan](https://github.com/samarth2812)
 - [Kush Bhargav Sah](https://github.com/kush134)
+- [Bergin Prem Y]()
 
 # Build Process
 
@@ -64,6 +65,7 @@ Web 3.0
 
 ```
 - Github.sol smart contract written to store issues and it's data.
+- 
 - Deployed using HardHat on Alchemy's 'Goerli Test Network'.
 - Using Metamask to Process transactions.
 ```
